@@ -1,0 +1,9 @@
+
+*.*~
+
+*.pyc
+*.root
+*.shelve
+*.cxx
+*.pdf
+*.ods#
